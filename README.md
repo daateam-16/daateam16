@@ -45,10 +45,12 @@
 <body>
 
 <!-- Navigation Buttons -->
+
 <div>
     <a href="#home" class="button">Home</a>
-    <a href="#course-introduction" class="button">Course Introduction</a>
-    <a href="#business-cases" class="button">Business Cases</a>
+    <a href="#📖 Course Overview" class="button">Course</a>
+    <a href="#💼 Business Cases" class="button">Business Cases</a>
+    
 </div>
 
 <h1 id="home">🌐 RAJPUR - Smart City Project Portfolio</h1>
